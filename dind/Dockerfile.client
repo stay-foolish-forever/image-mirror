@@ -1,0 +1,2 @@
+FROM docker:24.0-cli
+LABEL maintainer="darkzhang59546@163.com" type="mirror"
